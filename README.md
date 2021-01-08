@@ -29,7 +29,7 @@ If you use any of this code, a reference would be nice. You can reference it usi
 **Plain Text**: 
     
     Michelucci, U. Code for Estimating Neural Network’s Performance with Bootstrap: 
-    a Tutorial, whttps://github.com/toelt-llc/NN-Performance-Bootstrap-Tutorial, 2021
+    a Tutorial, https://github.com/toelt-llc/NN-Performance-Bootstrap-Tutorial, 2021
 
 **bibtex**:
 
