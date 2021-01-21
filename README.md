@@ -8,7 +8,7 @@ Michelucci, U. and Venturini, F., **Estimating Neural Network's Performance with
 
 The repository contains a folder, ```code``` that contains one Jupyter Notebook where you will find the code with some examples of the simulations as they are described in the paper. Clicking on the link below
 
-LINK TO BE ADDED
+[Simulation Python Code](http://colab.research.google.com/github/toelt-llc/NN-Performance-Bootstrap-Tutorial/blob/main/code/Tutorial%20Resampling%20with%20NN.ipynb)
 
 you can open the notebook in [Google Colab](https://colab.research.google.com) where you can try the simulations. Note that if you decide to use Google Colab, you don't need to install anything on your laptop, except [Google Chrome](https://www.google.com/chrome/?brand=FHFK&gclid=CjwKCAiAouD_BRBIEiwALhJH6JKt7h3q1IjeBhWPLfJXed4YSZ9qqVwIo8DfPTp5j4PNM1hRPUeaPhoCnXoQAvD_BwE&gclsrc=aw.ds). If you have a python installation on your machine (for example Anaconda for MS Windows), you can clone this repository locally and use it on your machine.
 
