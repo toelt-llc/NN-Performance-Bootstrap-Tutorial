@@ -18,9 +18,9 @@ you can open the notebook in [Google Colab](https://colab.research.google.com) w
 
 If you want to reference the paper you can use the following formats
 
-**Plain Text**: TO BE ADDED
+**Plain Text**: Michelucci, U.; Venturini, F. Estimating Neural Network’s Performance with Bootstrap: a Tutorial. Preprints 2021, 2021010431 (note that as soon as the paper will be published the reference will be changed)
 
-**bibtex**: TO BE ADDED
+
 
 ### This repository
 
