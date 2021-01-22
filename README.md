@@ -20,7 +20,10 @@ If you want to reference the paper you can use the following formats
 
 **Plain Text**: 
 
-    Michelucci, U.; Venturini, F. Estimating Neural Network’s Performance with Bootstrap: a Tutorial. Preprints 2021, 2021010431 (note that as soon as the paper will be published the reference will be changed)
+    Michelucci, U.; Venturini, F. Estimating Neural Network’s Performance with Bootstrap: a Tutorial. 
+    Preprints 2021, 2021010431 
+    
+(note that as soon as the paper will be published the reference will be changed)
 
 
 
